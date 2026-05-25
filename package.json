@@ -20,7 +20,13 @@
     "packages/*"
   ],
   "devDependencies": {
+    "@types/react": "^19.2.15",
+    "@types/react-dom": "^19.2.3",
     "turbo": "^2.9.6",
     "typescript": "^6.0.3"
+  },
+  "dependencies": {
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6"
   }
 }
