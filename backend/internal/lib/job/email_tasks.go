@@ -3,7 +3,6 @@ package job
 import (
 	"encoding/json"
 	"time"
-
 	"github.com/hibiken/asynq"
 )
 
